@@ -1,2 +1,2 @@
 # hello-cobol
-My life as a newbie COBOL developer.
+A simple COBOL aplication that shows the value of VAR1.
